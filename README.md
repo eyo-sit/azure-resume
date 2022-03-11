@@ -8,3 +8,4 @@ My own azure resume, following ACG project video
 -main.js contains visitor counter code.
 
 https://azureresumeebs.z20.web.core.windows.net/
+
